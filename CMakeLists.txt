@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.4)
-project(hrpsys)
+project(hrpsys-base)
 
 enable_testing()
 if(COMMAND cmake_policy)
